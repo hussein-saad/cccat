@@ -1,4 +1,4 @@
-# Text Processor
+# cccat
 
 This project is a simple text processing tool that reads input from either standard input (stdin) or files and processes the text based on the provided arguments.
 
